@@ -48,21 +48,21 @@ public class PharmaSol extends JFrame {
 
         ArrayList<ShippingEvent> shippingEventsExamples = new ArrayList<>();
 
-        shippingEventsExamples.add(new ShippingEvent(12,"0810055939190", "Example Drug 01"));
-        shippingEventsExamples.add(new ShippingEvent(45,"0560055345247", "Example Drug 02"));
-        shippingEventsExamples.add(new ShippingEvent(97,"0874563869405", "Example Drug 03"));
-        shippingEventsExamples.add(new ShippingEvent(37,"7567897694567", "Example Drug 04"));
-        shippingEventsExamples.add(new ShippingEvent(86,"6567484619292", "Example Drug 05"));
-        shippingEventsExamples.add(new ShippingEvent(10,"0193857647386", "Example Drug 06"));
-        shippingEventsExamples.add(new ShippingEvent(10,"5648301738102", "Example Drug 07"));
-        shippingEventsExamples.add(new ShippingEvent(15,"6548274947485", "Example Drug 08"));
-        shippingEventsExamples.add(new ShippingEvent(78,"5648301738102", "Example Drug 09"));
-        shippingEventsExamples.add(new ShippingEvent(10,"5648301738102", "Example Drug 10"));
-        shippingEventsExamples.add(new ShippingEvent(65,"5674956595674", "Example Drug 11"));
-        shippingEventsExamples.add(new ShippingEvent(10,"5648301738102", "Example Drug 12"));
-        shippingEventsExamples.add(new ShippingEvent(92,"9887495763833", "Example Drug 13"));
-        shippingEventsExamples.add(new ShippingEvent(72,"2758395728403", "Example Drug 14"));
-        shippingEventsExamples.add(new ShippingEvent(25,"5648301738102", "Example Drug 15"));
+        shippingEventsExamples.add(new ShippingEvent(12,"085002031790000012", "Example Drug 01"));
+        shippingEventsExamples.add(new ShippingEvent(45,"056005534524735325", "Example Drug 02"));
+        shippingEventsExamples.add(new ShippingEvent(97,"087456386940543243", "Example Drug 03"));
+        shippingEventsExamples.add(new ShippingEvent(37,"756789769456742424", "Example Drug 04"));
+        shippingEventsExamples.add(new ShippingEvent(86,"656748461929245442", "Example Drug 05"));
+        shippingEventsExamples.add(new ShippingEvent(10,"019385764738644424", "Example Drug 06"));
+        shippingEventsExamples.add(new ShippingEvent(10,"564830173810244425", "Example Drug 07"));
+        shippingEventsExamples.add(new ShippingEvent(15,"654827494748590476", "Example Drug 08"));
+        shippingEventsExamples.add(new ShippingEvent(78,"564830173810295677", "Example Drug 09"));
+        shippingEventsExamples.add(new ShippingEvent(10,"564830173810250378", "Example Drug 10"));
+        shippingEventsExamples.add(new ShippingEvent(65,"567495659567422499", "Example Drug 11"));
+        shippingEventsExamples.add(new ShippingEvent(10,"564830173810290840", "Example Drug 12"));
+        shippingEventsExamples.add(new ShippingEvent(92,"988749576383300911", "Example Drug 13"));
+        shippingEventsExamples.add(new ShippingEvent(72,"275839572840303412", "Example Drug 14"));
+        shippingEventsExamples.add(new ShippingEvent(25,"564830173810213783", "Example Drug 15"));
 
         return shippingEventsExamples;
     }
