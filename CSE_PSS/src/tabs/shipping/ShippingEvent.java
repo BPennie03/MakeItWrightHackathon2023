@@ -10,7 +10,7 @@ public class ShippingEvent extends JPanel {
 
     private final int totalUnits;
 
-    public ShippingEvent(int totalUnits, String GTIN, String description){
+    public ShippingEvent(int totalUnits, String SSCC, String description){
         this.totalUnits = totalUnits;
         final int rows = 1;
         final int cols = 2;
@@ -19,7 +19,7 @@ public class ShippingEvent extends JPanel {
         this.setLayout(new GridLayout(rows, cols));
 
         // Working with labels and checkboxes
-        this.label.setText(this.totalUnits + " units of " + GTIN + " " + description);
+        this.label.setText("SSCC #: " + SSCC);
         this.checkBox.setPreferredSize(new Dimension(this.getWidth() / 4, this.getHeight() - 5));
 
         // Adding things to this panel
