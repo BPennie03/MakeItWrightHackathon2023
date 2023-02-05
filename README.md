@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=2-4j_JiPfck
 - Insert presentation video link here
 
 ## PowerPoint 
-[Powerpoint](https://github.com/ReeseHatfield/MakeItWrightHackathon2023/blob/main/G10_Hackathon-23.pptx)
+[Slides for Presentation](https://github.com/ReeseHatfield/MakeItWrightHackathon2023/blob/main/G10_Hackathon-23.pptx)
