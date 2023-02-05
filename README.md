@@ -2,7 +2,7 @@
 GitHub repository for all things Hackathon for Team #10!
 
 ## Demo Video
-- Insert demo video link here
+https://www.youtube.com/watch?v=2-4j_JiPfck
 
 ## Project Presentation Video
 - Insert presentation video link here
